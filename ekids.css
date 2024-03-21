@@ -40,12 +40,6 @@ padding-right:20px;
 color:#ffffff;
 }
 
-/* Add responsive styles here */
-@media screen and (max-width: 768px) {
-    .container {
-        width: 90%;
-    }
-
 *{
 box-sizing: border-box;
 }
@@ -790,3 +784,9 @@ margin-top:40px;
 display:block;
 width:100%;
 }
+
+/* Add responsive styles here */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
