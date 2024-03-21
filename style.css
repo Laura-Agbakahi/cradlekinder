@@ -63,14 +63,3 @@ button:active {
   outline: 1px solid black;
 }
 
-.whatsapp-icon {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 1000;
-}
-
-.whatsapp-icon img {
-    width: 50px; /* Adjust size as needed */
-    height: auto;
-}
